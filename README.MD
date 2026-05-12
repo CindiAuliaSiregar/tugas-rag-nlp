@@ -66,7 +66,7 @@ Saat dokumen PDF diupload, teksnya dipotong-potong menjadi bagian kecil (chunk) 
 **Pertanyaan Refleksi:**
 
 * Chunk besar atau kecil yang lebih tepat untuk dokumen yang kamu tes? Mengapa?
-  > Jawab: ...
+  > Jawab: Chunk menengah, dengan ukuran dari 250-400 itu adalah 'sweet spot' dari proyek ini. Terutama pada PDF yang kecil atau simpel.
 
 * Apa yang terjadi kalau jawaban terasa "terpotong" atau kurang konteks? Parameter mana yang harus diubah?
   > Jawab: ...
